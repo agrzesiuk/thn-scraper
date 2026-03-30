@@ -14,4 +14,4 @@ Projekt automatyzujący zbieranie informacji na temat artykułów o cyberbezpiec
 3. Uruchom skrypt: `python main.py`
 
 ## Fragent wygenerowanego raportu html:
-![Podglad](podglad-raportu.png)
+![Podglad](podglad_raportu.png)
