@@ -9,7 +9,7 @@ Projekt automatyzujący zbieranie informacji na temat artykułów o cyberbezpiec
 - Automatyczne tworzenie raportu w formacie **HTML**.
 
 ## Jak uruchomić:
-1. Sklonuj repozytorium: `git clone [link]`
+1. Sklonuj repozytorium: `git clone [https://github.com/agrzesiuk/thn-scraper.git]`
 2. Zainstaluj wymagania: `pip install -r requirements.txt`
 3. Uruchom skrypt: `python main.py`
 
