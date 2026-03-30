@@ -13,5 +13,5 @@ Projekt automatyzujący zbieranie informacji na temat artykułów o cyberbezpiec
 2. Zainstaluj wymagania: `pip install -r requirements.txt`
 3. Uruchom skrypt: `python main.py`
 
-## Przykład wygenerowanego wykresu
-![Wykres statystyk](wykres_kolowy.png)
+## Fragent wygenerowanego raportu html:
+![Podglad](podglad-raportu.png)
